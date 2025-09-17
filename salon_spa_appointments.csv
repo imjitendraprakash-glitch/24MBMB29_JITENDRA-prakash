@@ -1,0 +1,76 @@
+appointment_id,customer_id,service_type,staff_id,booking_timestamp,status,price,duration_mins
+1,C107,Manicure,S02,9/27/2025 11:45,Completed,562,47
+2,C104,Pedicure,S01,9/18/2025 10:15,Completed,550,54
+3,C127,Haircut,S02,9/15/2025 16:45,Cancelled,554,37
+4,C129,Pedicure,S05,9/19/2025 15:45,Completed,491,55
+5,C106,Facial,S04,9/3/2025 14:15,Completed,913,50
+6,C109,Pedicure,S05,9/9/2025 10:45,Cancelled,429,43
+7,C110,Massage,S01,9/11/2025 17:00,Completed,999,33
+8,C113,Manicure,S05,9/29/2025 14:15,Completed,847,50
+9,C124,Manicure,S01,9/4/2025 9:45,Completed,926,47
+10,C120,Manicure,S01,9/24/2025 10:30,Completed,505,38
+11,C110,Haircut,S03,9/27/2025 16:30,Cancelled,996,39
+12,C125,Massage,S03,9/22/2025 14:30,Completed,724,54
+13,C112,Spa Therapy,S04,9/6/2025 13:15,Completed,997,48
+14,C115,Pedicure,S01,9/3/2025 16:30,Completed,957,44
+15,C107,Hair Coloring,S05,9/14/2025 12:30,Completed,727,59
+16,C103,Haircut,S03,9/7/2025 17:45,Cancelled,730,66
+17,C114,Manicure,S03,9/7/2025 17:30,Completed,922,38
+18,C105,Haircut,S03,9/23/2025 10:30,Cancelled,304,63
+19,C111,Hair Coloring,S04,9/23/2025 17:00,Completed,382,43
+20,C129,Hair Coloring,S02,9/11/2025 14:15,Completed,546,58
+21,C111,Hair Coloring,S03,9/24/2025 9:15,Completed,447,64
+22,C123,Facial,S04,9/4/2025 13:00,Cancelled,450,43
+23,C107,Massage,S04,9/29/2025 14:30,Cancelled,792,41
+24,C101,Spa Therapy,S05,9/11/2025 13:15,Completed,405,59
+25,C104,Haircut,S03,9/18/2025 9:45,No-show,991,60
+26,C101,Haircut,S02,9/8/2025 10:00,No-show,968,41
+27,C116,Massage,S02,9/30/2025 12:00,Completed,738,64
+28,C112,Hair Coloring,S03,9/18/2025 11:15,Completed,743,39
+29,C128,Manicure,S01,9/26/2025 15:15,Cancelled,712,37
+30,C101,Manicure,S04,9/16/2025 14:00,No-show,934,70
+31,C128,Hair Coloring,S05,9/21/2025 17:00,Completed,392,51
+32,C110,Pedicure,S03,9/6/2025 11:30,Completed,731,35
+33,C102,Massage,S03,9/9/2025 16:45,Completed,796,41
+34,C110,Massage,S04,9/22/2025 10:30,Completed,318,64
+35,C103,Spa Therapy,S02,9/7/2025 16:15,Completed,560,65
+36,C127,Facial,S01,9/16/2025 15:00,Completed,735,43
+37,C107,Pedicure,S03,9/9/2025 17:45,Completed,996,50
+38,C117,Haircut,S04,9/11/2025 13:30,Completed,802,46
+39,C121,Spa Therapy,S04,9/26/2025 16:45,Completed,481,35
+40,C117,Facial,S03,9/14/2025 17:00,Completed,456,34
+41,C116,Massage,S03,9/2/2025 11:00,Completed,687,70
+42,C100,Haircut,S02,9/12/2025 12:15,Cancelled,770,51
+43,C105,Facial,S01,9/19/2025 15:45,Completed,742,67
+44,C128,Manicure,S02,9/15/2025 13:30,Completed,598,55
+45,C117,Pedicure,S04,9/19/2025 13:30,Cancelled,375,44
+46,C101,Pedicure,S03,9/21/2025 9:00,Cancelled,549,60
+47,C121,Manicure,S04,9/5/2025 11:45,Completed,803,57
+48,C115,Facial,S05,9/23/2025 15:30,Completed,991,33
+49,C103,Facial,S01,9/16/2025 17:30,Completed,723,50
+50,C120,Haircut,S02,9/20/2025 13:15,Completed,607,35
+51,C121,Pedicure,S01,9/27/2025 9:15,Completed,532,61
+52,C109,Pedicure,S01,9/15/2025 10:00,Cancelled,598,46
+53,C105,Facial,S02,9/5/2025 17:30,Cancelled,997,45
+54,C115,Facial,S02,9/10/2025 16:00,Completed,841,59
+55,C125,Spa Therapy,S05,9/12/2025 13:45,Completed,465,63
+56,C113,Pedicure,S03,9/21/2025 16:15,No-show,399,63
+57,C100,Manicure,S04,9/29/2025 11:00,Completed,620,65
+58,C105,Facial,S04,9/28/2025 17:45,Completed,879,55
+59,C114,Pedicure,S05,9/25/2025 13:45,Completed,861,53
+60,C105,Manicure,S05,9/16/2025 13:45,Completed,323,67
+61,C107,Pedicure,S02,9/4/2025 12:45,Completed,844,63
+62,C115,Pedicure,S02,9/21/2025 10:45,Cancelled,406,35
+63,C127,Facial,S05,9/3/2025 11:15,Completed,850,69
+64,C114,Pedicure,S05,9/8/2025 14:15,Completed,339,31
+65,C124,Pedicure,S03,9/27/2025 13:00,Completed,378,31
+66,C118,Haircut,S01,9/4/2025 16:45,Cancelled,572,60
+67,C103,Spa Therapy,S03,9/7/2025 17:15,Completed,884,66
+68,C118,Manicure,S02,9/11/2025 11:00,Completed,676,56
+69,C115,Hair Coloring,S03,9/9/2025 15:15,Completed,301,63
+70,C115,Facial,S02,9/15/2025 10:15,No-show,673,52
+71,C126,Manicure,S01,9/16/2025 10:15,Completed,846,59
+72,C104,Spa Therapy,S05,9/29/2025 14:30,Completed,635,54
+73,C110,Pedicure,S04,9/24/2025 17:30,Completed,606,37
+74,C114,Facial,S04,9/1/2025 9:45,No-show,949,47
+75,C104,Haircut,S03,9/1/2025 9:00,Completed,406,42
